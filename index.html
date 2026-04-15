@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Weather Analytics Dashboard</title>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<!-- Effects Layer -->
+<div id="weatherEffects"></div>
+
+<div class="container">
+
+    <div class="header">
+        <h1>🌦 Weather Analytics</h1>
+        <p>Real-time smart weather UI</p>
+    </div>
+
+    <div class="search-box">
+        <input id="city" placeholder="Enter city..." />
+        <button id="searchBtn">Search</button>
+    </div>
+
+    <div class="cards" id="cards"></div>
+
+    <div class="charts">
+        <div class="chart-card">
+            <h3>Temperature & Humidity</h3>
+            <canvas id="tempChart"></canvas>
+        </div>
+
+        <div class="chart-card">
+            <h3>Humidity Trend</h3>
+            <canvas id="humidityChart"></canvas>
+        </div>
+    </div>
+
+</div>
+
+<script type="module" src="src/app.js"></script>
+
+</body>
+</html>
