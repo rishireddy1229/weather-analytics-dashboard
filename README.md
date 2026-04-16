@@ -1,9 +1,5 @@
 # 🌦 Weather Analytics Dashboard
 
-> 🚀 Featured in my portfolio: https://rishitha-portfolio-olive.vercel.app/
-
----
-
 ##  Overview
 
 An interactive **weather analytics dashboard** that visualizes real-time and forecast weather data with dynamic UI adaptation and environmental animations.
@@ -76,3 +72,12 @@ User Input → API Layer → Data Processing → UI Rendering
 ```bash
 git clone https://github.com/yourusername/weather-dashboard.git
 cd weather-dashboard
+open index.html with live server
+
+##  UI
+<img width="1203" height="791" alt="image" src="https://github.com/user-attachments/assets/72139e76-21c1-437e-8f1c-b7a6341a220f" />
+<img width="1241" height="813" alt="image" src="https://github.com/user-attachments/assets/b74f30ac-4988-482a-8883-0946fdeb08f9" />
+<img width="1230" height="812" alt="image" src="https://github.com/user-attachments/assets/950aab87-e2ac-44b6-9add-6c32ae322338" />
+
+
+
