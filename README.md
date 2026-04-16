@@ -76,9 +76,3 @@ open index.html with live server
 
 ---
 
-##  UI
-
-<img width="1230" height="812" alt="image" src="https://github.com/user-attachments/assets/279fa0b0-809c-4daa-8099-f780d3397b26" />
-
-
-
