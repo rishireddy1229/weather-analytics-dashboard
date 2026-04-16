@@ -76,7 +76,7 @@ open index.html with live server
 
 ---
 
-```md
+```
 ## 📸 UI
 
 ![UI 1](https://raw.githubusercontent.com/rishireddy1229/weather-analytics-dashboard/main/UI-1.png)
